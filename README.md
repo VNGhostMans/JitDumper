@@ -19,4 +19,3 @@
 # Credits
 - [Washi1337](https://github.com/Washi1337/) for AsmResolver, and for their overall help with this project.
 - [Microsoft](https://github.com/microsoft/) for Detours.
-
